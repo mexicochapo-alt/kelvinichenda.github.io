@@ -3,7 +3,7 @@
 This is an updated description of my project.
 
 ## Features
- (🎯 Objective
+ (🎯 Objective from Project supervisor
 You are required to analyze a real-world dataset containing basic biometric information (age, height, weight, gender). The goal is to perform exploratory data analysis (EDA), create visualizations, and extract insights from the data) 
 
 [Link to project]
